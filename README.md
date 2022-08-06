@@ -1,4 +1,4 @@
-- 👋 Ayooooo I'm
+- 👋 Ayooooo I'm Damien
 - 👀 I’m interested in Processing, OCaml, Ruby, kdb/q and of course Java. I like payments and perversely working with receipt printers.
 - 🌱 I’m currently learning Ruby & OCaml
 - 💞️ I’m looking to collaborate on whatever
